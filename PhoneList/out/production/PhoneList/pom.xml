@@ -1,0 +1,5 @@
+<dependency>
+  <groupId>com.h2database</groupId>
+  <artifactId>h2</artifactId>
+  <version>h2-2.3.232</version>
+</dependency>
